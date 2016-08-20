@@ -4,6 +4,22 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
 /*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
+.container-content{
+  background-image: url('../images/diver.jpg');
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+
+.container-margin{
+  padding-top: 40vh;
+
+}
+
+.section-spacer{
+  height: 100vh;
+
+}
+
 .intro-body{
   background-image: url('../images/main.jpg');
   background-size: 100% 100%;
